@@ -1,0 +1,10 @@
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\bin\Debug\Assembly-CSharpTests.dll
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\bin\Debug\Assembly-CSharpTests.pdb
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\bin\Debug\Assembly-CSharp.dll
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\bin\Debug\UnityEngine.dll
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\bin\Debug\UnityEngine.xml
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\obj\Debug\Assembly-CSharpTests.csprojResolveAssemblyReference.cache
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\obj\Debug\Assembly-CSharpTests.dll
+D:\UnityProjects\TwoDWorld\Assembly-CSharpTests\obj\Debug\Assembly-CSharpTests.pdb
