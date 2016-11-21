@@ -1,5 +1,6 @@
-#2D world generation experiments.
-##Progress Images:
+# 2D world generation experiments
+## Progress Images:
+
 ![image1](https://git.capnick.co.uk/capnick/TwoDWorld/raw/master/DevImages/perlin1.PNG "Interation 1")
 ![image2](https://git.capnick.co.uk/capnick/TwoDWorld/raw/master/DevImages/perlin2.PNG "Interation 2")
 ![image3](https://git.capnick.co.uk/capnick/TwoDWorld/raw/master/DevImages/perlin3.PNG "Interation 3")
